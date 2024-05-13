@@ -1,0 +1,26 @@
+Image,Class,X_min,Y_min,X_max,Y_max,Confidence
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,453,60,469,112,0.75
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,truck,310,257,348,299,0.64
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,41,0,57,32,0.43
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,384,260,399,272,0.39
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,53,459,439,512,0.36
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,107,153,137,203,0.35
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,train,51,459,436,512,0.33
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,156,160,167,199,0.33
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,143,156,167,200,0.24
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,399,259,420,274,0.21
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,86,232,253,439,0.96
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,32,257,111,301,0.89
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,272,251,343,293,0.87
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,bicycle,0,268,28,325,0.8
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,bicycle,425,265,455,290,0.72
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,140,130,149,158,0.71
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,196,132,206,165,0.64
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,person,433,248,448,285,0.52
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,425,1,441,61,0.47
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,284,196,293,227,0.39
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,person,0,226,18,305,0.39
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,traffic light,365,183,374,215,0.39
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,bicycle,387,264,413,288,0.32
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,car,1,467,367,512,0.3
+/Users/pc/Downloads/Self Driving Car.v3-fixed-small.tensorflow/export/1478898329168003050_jpg.rf.Vm06dJUvw4p9sCqLsdfo.jpg,person,272,251,280,270,0.25

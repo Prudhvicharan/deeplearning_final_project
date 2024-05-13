@@ -1,0 +1,54 @@
+Metric,Value
+mean_iou,0.0009761231985311973
+mean_accuracy,0.04592792387802502
+overall_accuracy,0.007011804538799415
+per_category_iou,"[0.02049859        nan 0.         0.         0.         0.
+        nan        nan 0.                nan 0.                nan
+ 0.         0.                nan        nan        nan 0.
+        nan 0.                nan 0.                nan        nan
+        nan        nan        nan 0.                nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan        nan        nan
+        nan        nan        nan        nan        nan 0.
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan 0.                nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan 0.                nan 0.                nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan        nan        nan]"
+per_category_accuracy,"[0.41335131        nan        nan 0.                nan 0.
+        nan        nan        nan        nan 0.                nan
+        nan 0.                nan        nan        nan 0.
+        nan        nan        nan 0.                nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan 0.                nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan
+        nan        nan        nan        nan        nan        nan]"
